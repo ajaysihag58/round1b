@@ -1,0 +1,43 @@
+{
+  "challenge_info": {
+    "challenge_id": "user_analysis_20250728_230443",
+    "test_case_name": "user_defined_analysis",
+    "description": "Travel planning for college students"
+  },
+  "documents": [
+    {
+      "filename": "South of France - Cities.pdf",
+      "title": "South Of France   Cities"
+    },
+    {
+      "filename": "South of France - Cuisine.pdf",
+      "title": "South Of France   Cuisine"
+    },
+    {
+      "filename": "South of France - History.pdf",
+      "title": "South Of France   History"
+    },
+    {
+      "filename": "South of France - Restaurants and Hotels.pdf",
+      "title": "South Of France   Restaurants And Hotels"
+    },
+    {
+      "filename": "South of France - Things to Do.pdf",
+      "title": "South Of France   Things To Do"
+    },
+    {
+      "filename": "South of France - Tips and Tricks.pdf",
+      "title": "South Of France   Tips And Tricks"
+    },
+    {
+      "filename": "South of France - Traditions and Culture.pdf",
+      "title": "South Of France   Traditions And Culture"
+    }
+  ],
+  "persona": {
+    "role": "Travel Planner"
+  },
+  "job_to_be_done": {
+    "task": "Plan a trip of 4 days for a group of 10 college friends"
+  }
+}
